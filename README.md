@@ -1,4 +1,4 @@
-# Welcome to Kleeboard! ![pervert-kissing](https://github.com/keyboard2543/keyboard2543/blob/main/pervert.png)
+# ![happy-wow](https://github.com/keyboard2543/keyboard2543/blob/main/happy.png)Welcome to Kleeboard! ![pervert-kissing](https://github.com/keyboard2543/keyboard2543/blob/main/pervert.png)
 ✨ [INFP](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) [9w1](https://en.wikipedia.org/wiki/Enneagram_of_Personality#Nine_types) [sp/sx](https://en.wikipedia.org/wiki/Enneagram_of_Personality#Instinctual_subtypes) [Melancholic-Phlegmatic](https://en.wikipedia.org/wiki/Four_temperaments) ✨<br>
 
 ## About Kleeboard
