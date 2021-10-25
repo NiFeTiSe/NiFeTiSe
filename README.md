@@ -41,7 +41,7 @@
 
 ## Github Status
 ![keyboard2543's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyboard2543&theme=github_dark&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyboard2543&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact
