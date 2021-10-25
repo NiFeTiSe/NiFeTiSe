@@ -6,7 +6,7 @@
 - I am Keyboard or you want to call me `Kleeboard`
 - `Kleeboard` comes from Klee + Keyboard!
 ## Rare Skills
-- Perfect Pitch - An ability to recognize the pitch without any references!
+- [Perfect Pitch](https://en.wikipedia.org/wiki/Absolute_pitch) - An ability to recognize the pitch without any references!
 
 ## Programming & Development Skills and Knowledges
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
