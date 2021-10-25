@@ -5,6 +5,7 @@
 - Name-Surname: `Sahatsawat Kanpai`
 - I am Keyboard or you want to call me `Kleeboard`
 - `Kleeboard` comes from Klee + Keyboard!
+- Software and Knowledge Engineering student [@Kasetsart University](https://www.ku.ac.th/)
 ## Rare Skills
 - [Perfect Pitch](https://en.wikipedia.org/wiki/Absolute_pitch) - An ability to recognize the pitch without any references!
 
