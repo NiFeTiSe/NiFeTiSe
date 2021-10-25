@@ -5,7 +5,14 @@
 - Name-Surname: `Sahatsawat Kanpai`
 - I am Keyboard or you want to call me `Kleeboard`
 - `Kleeboard` comes from Klee + Keyboard!
+- `Kleeboard` love to play musics!
 - Software and Knowledge Engineering student [@Kasetsart University](https://www.ku.ac.th/)
+
+## About Kleeboard but more!
+- [osu! 5 digits mouse player and mapper](https://osu.ppy.sh/users/13700777)
+- `mapper` in osu: a person who create and customize beatmaps
+- [osu! mania 5 digits player](https://osu.ppy.sh/users/13700777/mania)
+
 ## Rare Skills
 - [Perfect Pitch](https://en.wikipedia.org/wiki/Absolute_pitch) - An ability to recognize the pitch without any references!
 
