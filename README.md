@@ -39,6 +39,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+## Github stats
+![keyboard2543's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyboard2543&theme=github_dark&show_icons=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Contact
 <a target="_blank" href="mailto:keyboard2543@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://discordapp.com/users/283154244297555970"><img src="https://img.shields.io/badge/kleeboard%237195-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
