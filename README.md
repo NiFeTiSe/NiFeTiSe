@@ -6,6 +6,7 @@
 - Name-Surname: `Sahatsawat Kanpai`
 - I am Keyboard or you want to call me `Kleeboard`
 - `Kleeboard` comes from Klee + Keyboard!
+- <details><summary><b>Kleeboard warning!</b></summary><img src="https://github.com/keyboard2543/keyboard2543/blob/main/kleeboard.jpg"></img></details>
 - `Kleeboard` love to play musics!
 - Software and Knowledge Engineering student [@Kasetsart University](https://www.ku.ac.th/)
 
