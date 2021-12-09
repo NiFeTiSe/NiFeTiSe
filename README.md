@@ -1,5 +1,5 @@
 # ![happy-wow](https://github.com/keyboard2543/keyboard2543/blob/main/happy.png) Welcome to Kleeboard! ![pervert-kissing](https://github.com/keyboard2543/keyboard2543/blob/main/pervert.png)
-### ✨ [INFP](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) [9w1](https://en.wikipedia.org/wiki/Enneagram_of_Personality#Nine_types) [sp/sx](https://en.wikipedia.org/wiki/Enneagram_of_Personality#Instinctual_subtypes) [945](https://www.katherinefauvre.com/tritype) [RLUAI](https://similarminds.com/sloan.html) [Phlegmatic-Melancholic](https://en.wikipedia.org/wiki/Four_temperaments) ✨
+### ✨ [INFJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) [9w1](https://en.wikipedia.org/wiki/Enneagram_of_Personality#Nine_types) ✨
 <br><br>![yes-yes-yes](https://github.com/keyboard2543/keyboard2543/blob/main/jotaro-kujo-yes.gif)<br><br><br>
 
 ## 👉 About Kleeboard
