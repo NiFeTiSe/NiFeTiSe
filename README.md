@@ -1,22 +1,16 @@
 # ![happy-wow](https://github.com/keyboard2543/keyboard2543/blob/main/happy.png) Welcome to Kleeboard! ![pervert-kissing](https://github.com/keyboard2543/keyboard2543/blob/main/pervert.png)
-### ✨ [INFJ](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) [9w1](https://en.wikipedia.org/wiki/Enneagram_of_Personality#Nine_types) ✨
-<br><br>![yes-yes-yes](https://github.com/keyboard2543/keyboard2543/blob/main/jotaro-kujo-yes.gif)<br><br><br>
+### ✨ [𝓘𝓝𝓕𝓙](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) [𝟗𝔀𝟏](https://en.wikipedia.org/wiki/Enneagram_of_Personality#Nine_types) [𝓟𝓱𝓵𝓮𝓰𝓶𝓪𝓽𝓲𝓬-𝓜𝓮𝓵𝓪𝓷𝓬𝓱𝓸𝓵𝓲𝓬](https://en.wikipedia.org/wiki/Four_temperaments) ✨
+<br><br>![Ni-Fe-Ti-Se](https://images.squarespace-cdn.com/content/v1/5206bbd6e4b0cc1763c26dd6/1422478203031-GO903DACUUUBWJ70NUEZ/NiFeFunctions)<br>image ref: https://www.typeinmind.com/nife `👈 if you would like to read 😘`<br><br><br>
 
 ## 👉 About Kleeboard
 - Name-Surname: `Sahatsawat Kanpai`
 - I am Keyboard or you want to call me `Kleeboard`
 - `Kleeboard` comes from Klee + Keyboard!
+- `Kleeboard` love to learn and write code bacause it is the most similar to the magic for `Kleeboard`
+- Learn coding belike: Learn the spells
+- Write the code belike: Cast the spells
 - `Kleeboard` love to play musics!
-- Software and Knowledge Engineering student [@Kasetsart University](https://www.ku.ac.th/)
-
-## 👉 About Kleeboard but more!
-- [osu! 5 digits mouse player and mapper](https://osu.ppy.sh/users/13700777)
-- `mapper` in osu: a person who create and customize beatmaps
-- [osu! mania 5 digits player](https://osu.ppy.sh/users/13700777/mania)
-- <details><summary><b>Kleeboard warning!!!</b></summary><h2>BOOM BOOM BAKUDAN!!!</h2><img src="https://github.com/keyboard2543/keyboard2543/blob/main/kleeboard.jpg"></img></details>
-
-## 👍 Rare Skills
-- 👂✨ [Perfect Pitch](https://en.wikipedia.org/wiki/Absolute_pitch) - An ability to recognize the pitch without any references!
+- Software and Knowledge Engineering junior [@Kasetsart University](https://www.ku.ac.th/)
 
 ## 👨‍💻 Programming & Development Skills and Knowledges
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,7 +48,13 @@
 ![keyboard2543's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyboard2543&theme=github_dark&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyboard2543&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## 🤝 Contact
 <a target="_blank" href="mailto:keyboard2543@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://discordapp.com/users/283154244297555970"><img src="https://img.shields.io/badge/kleeboard%237195-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+
+## 👉 About Kleeboard but more!
+- 👂✨ [Perfect Pitch](https://en.wikipedia.org/wiki/Absolute_pitch) - An ability to recognize the pitch without any references!
+- [osu! 5 digits mouse player and mapper](https://osu.ppy.sh/users/13700777)
+- `mapper` in osu: a person who create and customize beatmaps
+- [osu! mania 5 digits player](https://osu.ppy.sh/users/13700777/mania)
+- <details><summary><b>Kleeboard warning!!!</b></summary><h2>BOOM BOOM BAKUDAN!!!</h2><img src="https://github.com/keyboard2543/keyboard2543/blob/main/kleeboard.jpg"></img></details>
