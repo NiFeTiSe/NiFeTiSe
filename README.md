@@ -1,7 +1,6 @@
 # ![happy-wow](https://github.com/keyboard2543/keyboard2543/blob/main/happy.png) Welcome to Kleeboard! ![pervert-kissing](https://github.com/keyboard2543/keyboard2543/blob/main/pervert.png)
-### ✨ [𝓘𝓝𝓕𝓙](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) [𝟗𝔀𝟏](https://en.wikipedia.org/wiki/Enneagram_of_Personality#Nine_types) [𝓟𝓱𝓵𝓮𝓰𝓶𝓪𝓽𝓲𝓬-𝓜𝓮𝓵𝓪𝓷𝓬𝓱𝓸𝓵𝓲𝓬](https://en.wikipedia.org/wiki/Four_temperaments) ✨
-<br><br>![Ni-Fe-Ti-Se](https://images.squarespace-cdn.com/content/v1/5206bbd6e4b0cc1763c26dd6/1422478203031-GO903DACUUUBWJ70NUEZ/NiFeFunctions)<br>image ref: https://www.typeinmind.com/nife `👈 if you would like to read 😘`<br><br><br>
 
+### I'm kleeboard (klee+keyboard)
 ## 👉 About Kleeboard
 - Name-Surname: `Sahatsawat Kanpai`
 - I am Keyboard or you want to call me `Kleeboard`
