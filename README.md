@@ -44,15 +44,15 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📈 Github Status
-![NiFeTiSe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiFeTiSe&theme=github_dark&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiFeTiSe&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![SiFeTiNe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiFeTiNe&theme=github_dark&show_icons=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiFeTiNe&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Contact
 <a target="_blank" href="mailto:keyboard2543@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://discordapp.com/users/283154244297555970"><img src="https://img.shields.io/badge/NiFeTiSe%237195-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a target="_blank" href="https://discordapp.com/users/283154244297555970"><img src="https://img.shields.io/badge/SiFeTiNe%237195-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 
 ## 👉 About Kleeboard but more!
 - 👂✨ [Perfect Pitch](https://en.wikipedia.org/wiki/Absolute_pitch) - An ability to recognize the pitch without any references!
 - [osu! 5 digits mouse player](https://osu.ppy.sh/users/13700777)
 - [osu! mania 5 digits player](https://osu.ppy.sh/users/13700777/mania)
-- <details><summary><b>Kleeboard warning!!!</b></summary><h2>BOOM BOOM BAKUDAN!!!</h2><img src="https://github.com/NiFeTiSe/NiFeTiSe/blob/main/kleeboard.jpg"></img></details>
+- <details><summary><b>Kleeboard warning!!!</b></summary><h2>BOOM BOOM BAKUDAN!!!</h2><img src="https://github.com/SiFeTiNe/SiFeTiNe/blob/main/kleeboard.jpg"></img></details>
