@@ -53,6 +53,5 @@
 
 ## 👉 About Kleeboard but more!
 - 👂✨ [Perfect Pitch](https://en.wikipedia.org/wiki/Absolute_pitch) - An ability to recognize the pitch without any references!
-- [osu! 5 digits mouse player](https://osu.ppy.sh/users/13700777)
-- [osu! mania 5 digits player](https://osu.ppy.sh/users/13700777/mania)
+- [osu! 5 digits player](https://osu.ppy.sh/users/13700777)
 - <details><summary><b>Kleeboard warning!!!</b></summary><h2>BOOM BOOM BAKUDAN!!!</h2><img src="https://github.com/SiFeTiNe/SiFeTiNe/blob/main/kleeboard.jpg"></img></details>
