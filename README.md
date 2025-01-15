@@ -1,3 +1,8 @@
+# ✨ [UwUSwap](https://github.com/UwUSwap) ✨
+Pay your coin to store your text on chain.<br>
+Try to input the text as much as you can.<br>
+It can cost your 500$ valued of the native token for the gas price, lmao.
+
 # ![happy-wow](https://github.com/keyboard2543/keyboard2543/blob/main/happy.png) Welcome to Kleeboard! ![pervert-kissing](https://github.com/keyboard2543/keyboard2543/blob/main/pervert.png)
 
 ### I'm kleeboard (klee+keyboard)
